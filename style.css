@@ -1,0 +1,146 @@
+#big-container{
+     padding-left: 300px;
+     padding-right: 300px;
+
+}
+#Page1{
+
+    background-color: white;
+    padding: 40%,20% ,40% 20%;
+    margin: 50px 10px;
+}
+
+.main-header{
+    display: flex;
+}  
+navbar {
+    display: inline;
+}
+.navbar p{
+    margin-right: 80px;
+}
+#nav-bar{
+    
+   display: flex;
+   
+   justify-content: space-between;
+
+}
+button{
+    background-color: rgb(43, 96, 228);
+    color: white;
+    border-radius: 20px;
+    height: 5vh;
+    width: 15%;
+
+}
+#Page1{
+    display: flex;
+}
+span{
+    color: blue;
+}
+.image1{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+h4{
+    color: rgb(238, 32, 32);
+    font-size: 200%;
+}
+#Page2{
+   display: flex; 
+}
+#Page3{
+    display: flex;
+}
+.image4{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image5{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    border-width: 20px;
+}
+#image{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#Page4{
+    text-align: center;
+}
+.btn7{
+    padding: 10px 40px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #4A7BFE;
+}
+.btn8{
+    padding: 10px 30px;
+}
+.btn9{
+    padding:10px 40px ;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px;
+}
+
+
+#Page5{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-type1{
+    width: 300%;
+}
+#Page6{
+    text-align: center;
+}
+#Page7{
+    display: flex;
+}
+.Image7{
+    width: 150px;
+    height: 150px;
+}
+#Page8{
+    text-align: center;
+}
+#Page9{
+    display: flex;
+    justify-content: space-between;
+}
+.Image9{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+#Page10{
+    display: flex;
+    justify-content: space-between;
+}
+#Icons{
+    display: flex;
+}
+.Image10{
+    width: 50px;
+    height: 50px;
+}
+#webpage11{
+    display: flex;
+}
+
+@media all and (max-width: 500px){
+    body{ }
+
+    }
